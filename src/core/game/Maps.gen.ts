@@ -37,6 +37,7 @@ export enum GameMapType {
   ChoppingBlock = "Chopping Block", // map-generator/assets/maps/choppingblock/info.json
   ClearwaterLakes = "Clearwater Lakes", // map-generator/assets/maps/clearwaterlakes/info.json
   Conakry = "Conakry", // map-generator/assets/maps/conakry/info.json
+  Copenhagen = "Copenhagen", // map-generator/assets/maps/copenhagen/info.json
   Crimea = "Crimea", // map-generator/assets/maps/crimea/info.json
   DanishStraits = "Danish Straits", // map-generator/assets/maps/danishstraits/info.json
   DeglaciatedAntarctica = "Deglaciated Antarctica", // map-generator/assets/maps/deglaciatedantarctica/info.json
@@ -657,6 +658,17 @@ export const maps: readonly MapInfo[] = [
     defaultNationCount: 20,
     specialTeamCount: 2,
     themes: ["africa"],
+  },
+  {
+    id: "Copenhagen",
+    type: GameMapType.Copenhagen,
+    translationKey: "map.copenhagen",
+    categories: ["europe"],
+    multiplayerFrequency: 3,
+    ffaFrequency: -1,
+    teamFrequency: -1,
+    specialFrequency: -1,
+    defaultNationCount: 23,
   },
   {
     id: "Crimea",

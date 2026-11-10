@@ -1,0 +1,124 @@
+{
+  "id": "Copenhagen",
+  "name": "Copenhagen",
+  "translation_key": "map.copenhagen",
+  "categories": ["europe"],
+  "multiplayer_frequency": 3,
+  "nations": [
+    {
+      "coordinates": [615, 879],
+      "name": "Frederiksberg",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [678, 411],
+      "name": "Gentofte",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [437, 529],
+      "name": "Gladsaxe",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [474, 276],
+      "name": "Lyngby-Taarbæk",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [254, 597],
+      "name": "Herlev",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [326, 884],
+      "name": "Rødovre",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [415, 1122],
+      "name": "Hvidovre",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [203, 1099],
+      "name": "Brøndby",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [135, 985],
+      "name": "Glostrup",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [93, 1277],
+      "name": "Vallensbæk",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [907, 1191],
+      "name": "Tårnby",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [1189, 1428],
+      "name": "Dragør",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [764, 869],
+      "name": "Indre By",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [772, 734],
+      "name": "Østerbro",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [671, 775],
+      "name": "Nørrebro",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [669, 951],
+      "name": "Vesterbro",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [559, 967],
+      "name": "Valby",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [456, 841],
+      "name": "Vanløse",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [483, 713],
+      "name": "Brønshøj-Husum",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [624, 654],
+      "name": "Bispebjerg",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [865, 926],
+      "name": "Christianshavn",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [975, 1001],
+      "name": "Amager Øst",
+      "flag": "dk"
+    },
+    {
+      "coordinates": [851, 1106],
+      "name": "Amager Vest",
+      "flag": "dk"
+    }
+  ]
+}

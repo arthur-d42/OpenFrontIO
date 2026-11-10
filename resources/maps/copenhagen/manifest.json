@@ -1,0 +1,139 @@
+{
+  "categories": ["europe"],
+  "id": "Copenhagen",
+  "map": {
+    "height": 1768,
+    "num_land_tiles": 1306994,
+    "width": 1692
+  },
+  "map16x": {
+    "height": 442,
+    "num_land_tiles": 77606,
+    "width": 423
+  },
+  "map4x": {
+    "height": 884,
+    "num_land_tiles": 320955,
+    "width": 846
+  },
+  "multiplayer_frequency": 3,
+  "name": "Copenhagen",
+  "nations": [
+    {
+      "coordinates": [615, 879],
+      "flag": "dk",
+      "name": "Frederiksberg"
+    },
+    {
+      "coordinates": [678, 411],
+      "flag": "dk",
+      "name": "Gentofte"
+    },
+    {
+      "coordinates": [437, 529],
+      "flag": "dk",
+      "name": "Gladsaxe"
+    },
+    {
+      "coordinates": [474, 276],
+      "flag": "dk",
+      "name": "Lyngby-Taarbæk"
+    },
+    {
+      "coordinates": [254, 597],
+      "flag": "dk",
+      "name": "Herlev"
+    },
+    {
+      "coordinates": [326, 884],
+      "flag": "dk",
+      "name": "Rødovre"
+    },
+    {
+      "coordinates": [415, 1122],
+      "flag": "dk",
+      "name": "Hvidovre"
+    },
+    {
+      "coordinates": [203, 1099],
+      "flag": "dk",
+      "name": "Brøndby"
+    },
+    {
+      "coordinates": [135, 985],
+      "flag": "dk",
+      "name": "Glostrup"
+    },
+    {
+      "coordinates": [93, 1277],
+      "flag": "dk",
+      "name": "Vallensbæk"
+    },
+    {
+      "coordinates": [907, 1191],
+      "flag": "dk",
+      "name": "Tårnby"
+    },
+    {
+      "coordinates": [1189, 1428],
+      "flag": "dk",
+      "name": "Dragør"
+    },
+    {
+      "coordinates": [764, 869],
+      "flag": "dk",
+      "name": "Indre By"
+    },
+    {
+      "coordinates": [772, 734],
+      "flag": "dk",
+      "name": "Østerbro"
+    },
+    {
+      "coordinates": [671, 775],
+      "flag": "dk",
+      "name": "Nørrebro"
+    },
+    {
+      "coordinates": [669, 951],
+      "flag": "dk",
+      "name": "Vesterbro"
+    },
+    {
+      "coordinates": [559, 967],
+      "flag": "dk",
+      "name": "Valby"
+    },
+    {
+      "coordinates": [456, 841],
+      "flag": "dk",
+      "name": "Vanløse"
+    },
+    {
+      "coordinates": [483, 713],
+      "flag": "dk",
+      "name": "Brønshøj-Husum"
+    },
+    {
+      "coordinates": [624, 654],
+      "flag": "dk",
+      "name": "Bispebjerg"
+    },
+    {
+      "coordinates": [865, 926],
+      "flag": "dk",
+      "name": "Christianshavn"
+    },
+    {
+      "coordinates": [975, 1001],
+      "flag": "dk",
+      "name": "Amager Øst"
+    },
+    {
+      "coordinates": [851, 1106],
+      "flag": "dk",
+      "name": "Amager Vest"
+    }
+  ],
+  "translation_key": "map.copenhagen"
+}

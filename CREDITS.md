@@ -104,6 +104,13 @@ Polar Geospatial Center, 2018, "PGC Map Catalog", https://doi.org/10.7910/DVN/6R
 © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)  
 Licensed under ODbL
 
+### Copenhagen Map
+
+Coastline, lakes and rail lines: © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)  
+Licensed under ODbL
+
+Elevation: Copernicus Global Digital Elevation Model (GLO-30), see above.
+
 ## Icons
 
 ### [The Noun Project](https://thenounproject.com/)
